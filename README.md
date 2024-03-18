@@ -1,4 +1,4 @@
-# hardhat-true-erc20
+# hardhat-erc20Token
 
 This project is a sample Hardhat project for deploying and testing an ERC20 token contract named "OurToken".
 
@@ -12,7 +12,7 @@ This project is a sample Hardhat project for deploying and testing an ERC20 toke
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hardhat-true-erc20.git
+git clone https://github.com/haisenCx/hardhat-erc20Token.git
 ```
 
 2. Navigate into the project directory:
