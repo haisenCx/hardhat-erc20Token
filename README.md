@@ -17,7 +17,7 @@ git clone https://github.com/haisenCx/hardhat-erc20Token.git
 
 2. Navigate into the project directory:
 ```bash
-cd hardhat-true-erc20
+cd hardhat-erc20Token
 ```
 
 3.Install the dependencies:
